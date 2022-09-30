@@ -1,12 +1,12 @@
-# [Jonathan Hsu] (https://jonathan-hsu.com)
+# Jonathan Hsu
 
 **CS Undergrad @ UCSD**
 
-> I'm 5'6 standing on my money I'm 6'5
+> I'm 5'4 stand on my money I'm 6'6 - Lil Uzi Vert  
 
 Use `git checkout` to checkout a branch 
 
-This site was built using [GitHub Pages](https://github.com/jonathaanh/GithubPage).
+Checkout my personal [site](http://www.jonathan-hsu.com).
 
 [This is the README](README.md)
 
@@ -19,7 +19,6 @@ I like ...
 1. Apple Magic Mouse
 2. Sunshine Market
 3. Blue Line Trolley
-
 
 - [x] Jim
 - [x] punt money in stock market
