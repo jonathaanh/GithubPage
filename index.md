@@ -1,6 +1,6 @@
 # Jonathan Hsu
 
-**CS Undergrad @ UCSD**
+* *CS Undergrad @ UCSD* *
 
 > I'm 5'4 stand on my money I'm 6'6 - Lil Uzi Vert  
 
