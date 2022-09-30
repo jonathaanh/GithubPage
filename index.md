@@ -2,6 +2,8 @@
 
 *CS Undergrad @ UCSD*
 
+![Camel in Space](images/camelspace.png)
+
 > I'm 5'4 stand on my money I'm 6'6 - Lil Uzi Vert  
 
 Use `git checkout` to checkout a branch 
